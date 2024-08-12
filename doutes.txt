@@ -1,0 +1,18 @@
+discrete
+continues
+map
+groupby
+barplot(hue)
+map reduce
+pinalize
+
+
+3 videos
+bayas and navi bayas
+ml 3rd video
+
+linear programming
+moving avarage 
+explontial moving avarage
+
+upper and lower bound in outliers
