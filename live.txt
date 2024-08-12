@@ -1,0 +1,15 @@
+step function
+types of non linear activation functions
+
+forward propagations
+loss functions 
+diffrent types of loss functions
+back propagation
+when we do back propagation
+why we do back ............
+optimizers
+chain rule 
+learing rate
+finding slope gradient descent
+
+
