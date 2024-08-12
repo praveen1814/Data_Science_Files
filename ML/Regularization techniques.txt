@@ -1,0 +1,23 @@
+Regularization techniques help to prevent overfitting🙅 in machine learning models by introducing a penalty term that discourages large parameter values. This results in a simpler model that generalizes better to new data.
+
+L1 Regularization, also known as Lasso regularization, adds a penalty term to the cost function that is proportional to the absolute value of the coefficients of the features in the model. It shrinks some coefficients to zero, effectively performing feature selection.
+
+The formula🧮 for L1 regularization is:
+
+Cost function with L1 regularization = Original cost function + λ * (sum of absolute value of coefficients)
+
+L2 Regularization, also known as Ridge regularization, adds a penalty term to the cost function that is proportional to the square of the coefficients of the features in the model. It shrinks the coefficients towards zero, but never exactly to zero.
+
+The formula🧮 for L2 regularization is:
+
+Cost function with L2 regularization = Original cost function + λ * (sum of square of coefficients)
+
+Elastic Net is a combination of both L1 and L2 regularization. It adds both L1 and L2 penalty terms to the cost function. It is useful when there are many correlated🔋 features in the model.
+
+The formula 🧾for Elastic Net regularization is:
+
+Cost function with Elastic Net regularization = Original cost function + λ1 * (sum of absolute value of coefficients) + λ2 * (sum of square of coefficients)
+
+The λ (lambda) term is the hyperparameter that determines the strength of the regularization. A higher value of λ results in stronger⚙️ regularization.
+
+In summary🧑‍🔧, Regularization techniques are essential to prevent overfitting in machine learning models. L1, L2, and Elastic Net regularization are the most commonly used techniques, each with its own strengths📈 and weaknesses. It is important to choose the appropriate regularization technique and hyperparameters for your specific problem.
