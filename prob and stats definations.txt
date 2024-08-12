@@ -1,0 +1,114 @@
+> confidence intervel
+> conditional probability
+> power law distribution
+> parito distribution
+> bernoli distibution
+> binomial dist
+> bayes theroem
+> mutual and non mutual exclusiv
+> log normal dist
+> normal dist
+> varience
+> std 
+> co variance
+> corelation
+> hypothisis testing
+> z- test or dist
+> t-test or dist
+> f-test or dist
+> ANOVA test
+> chi-sqrt test
+> central limit theroem
+> sampling distibution
+> random variable
+> discrete and continous
+> skewnwss
+> kurtosis
+> pdf
+> cdf
+> p-value
+> two-tail test
+> degree of freedom
+> probabilty vs statistics
+> person correlation
+> sparseman corr
+> uncertnality
+> limitations of stats
+> box cox transforamtions
+> types of transformations in statistics
+
+
+
+
+
+
+
+
+***ML**
+
+> learning rate
+> homosecdastistcity
+> heteroscdasticity
+> dependency
+> multicolinearlity
+> collinearlity
+> maximum likelihood estimater
+> cost and loss functions
+> why the term call gradient decent
+> why we only use X_train,y_train
+> why is called logistic regression as a regression problem
+> why sample devided n-1
+> convex function
+> map reduce
+> dimentionality reduction
+> data leckage
+> batch learning 
+> online learning
+> bias and variance
+> vectorization
+> batch GD vs Stocastic GD vs mini batch vs GD
+> metrics, scaler, vector
+> overfitting and underfitting
+> why lasso create sparsity
+> all models assumtions
+> why ridge is called L2
+> why lasso is called L1
+> ridge vs lasso
+> unit and magnitude
+> regression
+> classification
+> vector derivatives
+> sclar derivatives
+> types of matrircs
+> how many ways we can slove regression problems 
+> shrinkage coffe
+> how the cofficients get affected in (regression)
+> bias and variance in regularization
+> what is effect of loss function after using regularization
+> roc and auc
+> sigmoid function
+> convergence
+> maximum likelihood
+> why we are not use regression line in logistic regression
+> diffrentation of resiprocal rule
+> arthimatic mean
+> geomentric mean
+> hormonic mean
+> penalise
+> which model can support multi calss classification
+> difference of fit and transform
+> weighted avarage
+> can we apply groupby on numeric data
+> orderby
+
+71,72,73
+74,75,76
+77,78,79,80
+
+
+
+
+
+> equilibrium
+> time complexcity
+> 

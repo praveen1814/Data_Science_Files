@@ -1,0 +1,8 @@
+convelution 2d
+feature extraction(image filtering)
+filter the weights
+activation map or feature map
+weight sherhing
+pooling layers
+HP3 stride
+what happens inside cnn
